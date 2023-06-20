@@ -1,0 +1,15 @@
+.correctBorder {
+  border: 3px solid rgb(6, 240, 15);
+}
+
+.wrongBorder {
+  border: 3px solid red;
+}
+
+.borderInitial {
+  border: 1px solid black;
+}
+
+button {
+  cursor: pointer;
+}
